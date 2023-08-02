@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatiTest", "WatiTest.csproj", "{87EBD6EE-6E2F-4AE7-9423-E1F510BD8E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{07842E20-8EDE-4F6A-97BB-5897C2EDBD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EBD6EE-6E2F-4AE7-9423-E1F510BD8E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EBD6EE-6E2F-4AE7-9423-E1F510BD8E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EBD6EE-6E2F-4AE7-9423-E1F510BD8E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EBD6EE-6E2F-4AE7-9423-E1F510BD8E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07842E20-8EDE-4F6A-97BB-5897C2EDBD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07842E20-8EDE-4F6A-97BB-5897C2EDBD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07842E20-8EDE-4F6A-97BB-5897C2EDBD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07842E20-8EDE-4F6A-97BB-5897C2EDBD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE96678-EB15-4185-A766-7382ED015856}
+	EndGlobalSection
+EndGlobal
